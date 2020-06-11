@@ -1,4 +1,4 @@
-# make_up
+# MakeUp Information
 
 A new Flutter application.
 
